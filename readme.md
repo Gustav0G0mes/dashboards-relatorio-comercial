@@ -77,12 +77,4 @@ O relatório oferece uma análise completa do fluxo de receita, identificando os
 
 ## 👤 Autor
 
-Desenvolvido por **Seu Nome**.
-
-Se você gostou deste projeto, sinta-se à vontade para me conectar ou dar uma ⭐️ no repositório!
-
-* **GitHub:** [@seu-usuario](https://github.com/seu-usuario)
-
-* **LinkedIn:** [Seu Nome](https://linkedin.com/in/seu-perfil)
-
-* **E-mail:** seu.email@exemplo.com
+Desenvolvido por: Gustavo Gomes Lopes
